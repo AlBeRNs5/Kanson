@@ -71,7 +71,7 @@ client.user.setGame(`AlBeRNs  `,"https://www.twitch.tv/dggamingbot")
 
 
 client.on('message', message => {
-    if (message.content.startsWith("<@529791622448152596>"))
+    if (message.content.startsWith("<@533628036369743893>"))
     
     message.reply("بتمنشن لبوت يا غبي .؟ ");
     
