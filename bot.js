@@ -68,12 +68,10 @@ client.user.setGame(`AlBeRNs  `,"https://www.twitch.tv/dggamingbot")
     });
 
 
-
-
 client.on('message', message => {
     if (message.content.startsWith("<@533628036369743893>"))
     
-    message.reply("بتمنشن لبوت يا غبي .؟ ");
+    message.reply("عايز ايه ؟");
     
       
 
@@ -82,6 +80,7 @@ client.on('message', message => {
 });
 
 
+ 
 
 client.on('message', msg => {
   if (msg.author.bot) return;
